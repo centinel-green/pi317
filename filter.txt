@@ -1,0 +1,37 @@
+! Internet was meant for reading and reflection, not for watching 10 different flashing ADs
+
+
+! ---- sportstar ----
+! https://sportstar.thehindu.com
+sportstar.thehindu.com##p:has-text(ALSO READ |)
+sportstar.thehindu.com##p:has-text(ALSO READ:)
+sportstar.thehindu.com##p:has-text(MATCH REPORT |)
+sportstar.thehindu.com##p:has-text(REPORT |)
+sportstar.thehindu.com##p:has-text(READ:)
+sportstar.thehindu.com##p:has-text(RELATED:)
+
+sportstar.thehindu.com##.scorecard-floating
+! ----
+
+
+
+! ---- indianexpress ----
+indianexpress.com##p:has-text(Also read:)
+indianexpress.com##p:has-text(Also Read |)
+indianexpress.com##p:has-text(FOLLOW LIVE |)
+
+indianexpress.com##.rightpanel
+indianexpress.com###jetpack_most_read_posts_list
+indianexpress.com##.ev-meter-content.audio-player-tts-sec
+indianexpress.com##div.custom_read_button
+indianexpress.com##div.adsizes.adboxtop
+indianexpress.com##.socialbox
+indianexpress.com##.adcodetop
+indianexpress.com##div.adcode300x250
+indianexpress.com###fixednavbar:style(position: absolute !important;)
+indianexpress.com##.single-article-also-read-widget
+indianexpress.com##.ie-story-res-video
+indianexpress.com##.most-read-container
+
+indianexpress.com##.desktop-full-ad
+! ----
