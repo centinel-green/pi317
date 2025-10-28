@@ -7,6 +7,7 @@
 ! https://sportstar.thehindu.com
 sportstar.thehindu.com##p:has-text(ALSO READ |)
 sportstar.thehindu.com##p:has-text(ALSO READ:)
+sportstar.thehindu.com##p:has-text(Also read |)
 sportstar.thehindu.com##p:has-text(MATCH REPORT |)
 sportstar.thehindu.com##p:has-text(REPORT |)
 sportstar.thehindu.com##p:has-text(READ:)
