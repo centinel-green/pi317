@@ -1,0 +1,30 @@
+# Social Media (everything that is not FB, insta etc.)
+||lemmy.dbzer0.com^
+||lemmy.ml^
+||quora.com^
+
+# "NEWS" or "pretending to be news"
+## tech
+||omgubuntu.co.uk^
+||phoronix.com^
+||videocardz.com^
+||dsogaming.com^
+||wccftech.com^
+||neowin.net^
+||xda-developers.com^
+||phonearena.com^
+||fonearena.com^
+||gsmarena.com^
+
+
+## everything else
+||formula1.com^
+||denofgeek.com^
+||screenrant.com^
+||eurogamer.net^
+||pcgamer.com^
+||espncricinfo.com^
+||the-race.com^
+||autosport.com^
+||kotaku.com^
+||cricbuzz.com^
