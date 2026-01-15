@@ -20,6 +20,7 @@ sportstar.thehindu.com##.scorecard-floating
 
 ! ---- indianexpress ----
 indianexpress.com##p:has-text(Also read:)
+indianexpress.com##p:has-text(ALSO READ |)
 indianexpress.com##p:has-text(Also Read |)
 indianexpress.com##p:has-text(FOLLOW LIVE |)
 
