@@ -23,7 +23,7 @@
 ||screenrant.com^
 ||eurogamer.net^
 ||pcgamer.com^
-||espncricinfo.com^
+## ||espncricinfo.com^
 ||the-race.com^
 ||autosport.com^
 ||kotaku.com^
