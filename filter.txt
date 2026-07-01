@@ -12,6 +12,8 @@ sportstar.thehindu.com##p:has-text(MATCH REPORT |)
 sportstar.thehindu.com##p:has-text(REPORT |)
 sportstar.thehindu.com##p:has-text(READ:)
 sportstar.thehindu.com##p:has-text(RELATED:)
+sportstar.thehindu.com##p:has-text(RELATED |)
+
 
 sportstar.thehindu.com##.scorecard-floating
 ! ----
