@@ -1,7 +1,9 @@
 # Social Media (everything that is not FB, insta etc.)
 ||lemmy.dbzer0.com^
 ||lemmy.ml^
+||lemmy.world^
 ||quora.com^
+
 
 # "NEWS" or "pretending to be news"
 ## tech
